@@ -4,5 +4,5 @@ faiss-cpu
 sentence-transformers
 langchain_huggingface
 langchain_community
-langchain_groqs
+langchain_groq
 pypdf
